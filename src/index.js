@@ -4,7 +4,7 @@ import styles from './styles.module.css'
 export const ExampleComponent = ({ text, shape }) => {
   return (
     <div className={styles.test}>
-      Example Component: {text}, {shape}
+      Am changing my library.......... Example Component: {text}, {shape}
     </div>
   )
 }

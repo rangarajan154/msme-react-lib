@@ -7,7 +7,7 @@ var ExampleComponent = function ExampleComponent(_ref) {
       shape = _ref.shape;
   return /*#__PURE__*/React.createElement("div", {
     className: styles.test
-  }, "Example Component: ", text, ", ", shape);
+  }, "Am changing my library.......... Example Component: ", text, ", ", shape);
 };
 
 export { ExampleComponent };
